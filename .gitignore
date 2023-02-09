@@ -1,0 +1,10 @@
+.vs/
+LLVMRelease/
+LLVMDebug/
+Debug/
+x64/
+ipch/
+Vigilant/x64
+Vigilant/Debug/
+Vigilant/Vigilant.aps
+Vigilant/Vigilant.vcxproj.user

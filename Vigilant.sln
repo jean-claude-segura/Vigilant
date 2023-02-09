@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Vigilant", "Vigilant\Vigilant.vcxproj", "{F34C2155-96EA-4834-8085-4CC18CE513BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		FDebug|Win32 = FDebug|Win32
+		FDebug|x64 = FDebug|x64
+		FRelease|Win32 = FRelease|Win32
+		FRelease|x64 = FRelease|x64
+		LLVMRelease|Win32 = LLVMRelease|Win32
+		LLVMRelease|x64 = LLVMRelease|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F34C2155-96EA-4834-8085-4CC18CE513BB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F34C2155-96EA-4834-8085-4CC18CE513BB}.Debug|Win32.Build.0 = Debug|Win32
+		{F34C2155-96EA-4834-8085-4CC18CE513BB}.Debug|x64.ActiveCfg = Debug|x64
+		{F34C2155-96EA-4834-8085-4CC18CE513BB}.Debug|x64.Build.0 = Debug|x64
+		{F34C2155-96EA-4834-8085-4CC18CE513BB}.FDebug|Win32.ActiveCfg = FDebug|Win32
+		{F34C2155-96EA-4834-8085-4CC18CE513BB}.FDebug|Win32.Build.0 = FDebug|Win32
+		{F34C2155-96EA-4834-8085-4CC18CE513BB}.FDebug|x64.ActiveCfg = FDebug|x64
+		{F34C2155-96EA-4834-8085-4CC18CE513BB}.FDebug|x64.Build.0 = FDebug|x64
+		{F34C2155-96EA-4834-8085-4CC18CE513BB}.FRelease|Win32.ActiveCfg = FRelease|Win32
+		{F34C2155-96EA-4834-8085-4CC18CE513BB}.FRelease|Win32.Build.0 = FRelease|Win32
+		{F34C2155-96EA-4834-8085-4CC18CE513BB}.FRelease|x64.ActiveCfg = FRelease|x64
+		{F34C2155-96EA-4834-8085-4CC18CE513BB}.FRelease|x64.Build.0 = FRelease|x64
+		{F34C2155-96EA-4834-8085-4CC18CE513BB}.LLVMRelease|Win32.ActiveCfg = LLVMRelease|Win32
+		{F34C2155-96EA-4834-8085-4CC18CE513BB}.LLVMRelease|Win32.Build.0 = LLVMRelease|Win32
+		{F34C2155-96EA-4834-8085-4CC18CE513BB}.LLVMRelease|x64.ActiveCfg = LLVMRelease|x64
+		{F34C2155-96EA-4834-8085-4CC18CE513BB}.LLVMRelease|x64.Build.0 = LLVMRelease|x64
+		{F34C2155-96EA-4834-8085-4CC18CE513BB}.Release|Win32.ActiveCfg = Release|Win32
+		{F34C2155-96EA-4834-8085-4CC18CE513BB}.Release|Win32.Build.0 = Release|Win32
+		{F34C2155-96EA-4834-8085-4CC18CE513BB}.Release|x64.ActiveCfg = Release|x64
+		{F34C2155-96EA-4834-8085-4CC18CE513BB}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {541FADD3-07E6-4539-B51B-D2FDA59E81C1}
+	EndGlobalSection
+EndGlobal
